@@ -1,6 +1,6 @@
 object fbarangmasuk: Tfbarangmasuk
-  Left = 268
-  Top = 111
+  Left = 139
+  Top = 249
   Width = 1042
   Height = 585
   Caption = 'Barang Masuk'

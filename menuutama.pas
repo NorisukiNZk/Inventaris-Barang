@@ -12,7 +12,6 @@ type
     Image3: TImage;
     Label1: TLabel;
     Label2: TLabel;
-    sSkinManager1: TsSkinManager;
     Label3: TLabel;
     procedure Image2Click(Sender: TObject);
     procedure Image3Click(Sender: TObject);
@@ -38,7 +37,7 @@ end;
 
 procedure TForm2.Image3Click(Sender: TObject);
 begin
-barangkeluar.showmodal;
+barangkeluar.ShowModal;
 end;
 
 end.
